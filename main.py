@@ -10,3 +10,5 @@ for i in range(4):
   star.forward(100) 
 
 turtle.done() 
+wehro
+ p9r 
